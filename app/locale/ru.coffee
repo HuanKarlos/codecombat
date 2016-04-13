@@ -448,7 +448,7 @@ module.exports = nativeDescription: "русский", englishDescription: "Russi
 #    tip_luna_lovegood: "Don't worry, you're just as sane as I am. - Luna Lovegood"
 #    tip_good_idea: "The best way to have a good idea is to have a lot of ideas. - Linus Pauling"
 #    tip_programming_not_about_computers: "Computer Science is no more about computers than astronomy is about telescopes. - Edsger Dijkstra"
-#    tip_mulan: "Believe you can, then you will. - Mulan"
+    tip_mulan: "Поверь в то, что ты можешь. И тогда у тебя получится. - Мулан"
 
   game_menu:
     inventory_tab: "Инвентарь"
